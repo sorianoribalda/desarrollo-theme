@@ -28,3 +28,6 @@ function encolar_scripts(){
     wp_enqueue_script('dt_script');
 };
 add_action( 'wp_enqueue_scripts', 'encolar_scripts' );
+
+
+
